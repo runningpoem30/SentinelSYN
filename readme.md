@@ -1,6 +1,3 @@
-Gemini said
-This README is designed to look professional on GitHub while giving you all the "theory" sections you need to copy-paste directly into a project report.
-
 SentinelSYN: Real-Time TCP SYN Flood Detection System
 SentinelSYN is a high-performance Network Intrusion Detection System (NIDS) built in C++ using the libpcap library. It is designed to monitor live network traffic, analyze TCP handshake patterns, and identify SYN Flood Denial-of-Service (DoS) attacks in real-time.
 
